@@ -1,0 +1,85 @@
+
+div{
+    background-image: url(download.jpg)
+
+
+
+}
+body{
+    background-image: url("gradient-blur-pink-blue-abstract-background_53876-117324.avif");
+   border: 5px blue;
+}
+div{
+    background: scroll;
+}
+h2{
+text-align: center;
+
+}
+.hamza{
+    font-family:Times New Roman;
+    text-align: center;
+    
+        
+    
+}
+li{
+    text-align: center;
+}
+h1{
+     font-family: cairo;
+    font-size:100px;
+    text-align: center;
+    text-transform: uppercase;
+    color:black;
+    border:10px blue;
+  
+  
+}
+p {
+    border:5px blue;
+    color: black;
+    text-align: center;
+
+    
+}
+h3{
+    text-align: center;
+
+    border: 10px blue ;
+}
+a{
+    text-align: center;
+    border:5px ;
+}
+.mezo{
+    font-size: larger;
+}
+#i{
+    
+   border: 30px blue groove;
+     border-top-left-radius: 40px;
+  border-top-right-radius: 40px;    
+  border-bottom-right-radius: 40px; 
+  border-bottom-left-radius: 40px;
+
+    
+}
+video{
+    width: 1300px;
+    height: 700px;
+     border: 10px blue groove;
+}
+h4{
+    color: #000000;
+}
+.w{
+    width: 80px;
+    height: 80px;
+     border-radius: 50% ;
+     bottom: 3px ;color: blue;
+
+}
+ul{
+    border: 5px blue;
+}
